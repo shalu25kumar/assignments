@@ -1,0 +1,9 @@
+public  class Practice{ //it must be abstract class//
+
+    abstract void();//abstract method//
+        {
+
+        }
+
+    }
+}
